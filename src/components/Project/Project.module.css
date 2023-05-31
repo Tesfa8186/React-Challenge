@@ -1,0 +1,16 @@
+.cardColour {
+	background-color: #5f4d7f !important;
+}
+
+.projectImg {
+    object-fit: cover;
+}
+
+.padding {
+    padding: 10px;
+}
+
+.hovering:hover {
+    transform: scale(1.2);
+    transition: 0.3s
+}

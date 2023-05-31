@@ -1,0 +1,20 @@
+.headerbg {
+    background: #7fedba;
+}
+
+.headertitle {
+    padding-left: 40px !important
+}
+
+.headertitle:hover {
+    color: #dcafde;
+    transition: 0.3s;
+}
+
+.customactive {
+    background: #8ad1da;
+}
+
+.customLi:hover {
+    background: #a173d6;
+}

@@ -1,0 +1,32 @@
+.formDiv {
+    margin-top: 10%;
+}
+
+.contactForm {
+    background: linear-gradient(45deg, rgba(163,163,163,1) 0%, rgba(255,255,255,1) 60%, rgba(163,163,163,1) 100%);
+    padding: 50px;
+    border-radius: 10px;
+}
+
+.labelText {
+    font-size: 18px;
+    padding-bottom: 5px;
+}
+
+.textArea {
+    height: 100px;
+    padding: 8px;
+}
+
+.errorText {
+    font-size: 22px;
+    color: red;
+    padding: 10px;
+}
+
+.successText {
+    font-size: 22px;
+    color: #00f00c;
+    text-shadow: rgba(0, 0, 0, 0.589) 1px 1px;
+    padding: 10px;
+}
