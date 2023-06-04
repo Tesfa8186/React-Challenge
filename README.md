@@ -23,8 +23,8 @@
 
 ## Links
 
-- [Tesfa React App URL](https://tesfa8186.github.io/tesfa-react-portfolio/)
-- [URL of GitHub Repo](https://github.com/Tesfa8186/Tesfa-React-Portfolio)
+- [My React Portfolio URL]()
+- [URL of GitHub Repo](https://github.com/Tesfa8186/my-react-portfolio)
 - ![alt text](./public/assets/images/About-Page.png)
 
 ## License
