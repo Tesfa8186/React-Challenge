@@ -4,14 +4,14 @@ import Project from '../../components/Project/Project'
 const projects = [
   {
     id: 1,
-    title: "BizTrip",
+    title: "BizTrip (Business Trip) App",
     image: "/assets/images/1-BizTrip-App.png",
     github: "https://github.com/Tesfa8186/BizTrip",
     deploy: "https://warm-scrubland-92749.herokuapp.com/",
   },
   {
     id: 2,
-    title: "Search-Book-App",
+    title: "Search Book App",
     image: "/assets/images/2-Search-BookPage.png",
     github: "https://github.com/Tesfa8186/MERN-Book-Serach-Engine",
     deploy: "https://powerful-waters-09126.herokuapp.com/",
@@ -25,7 +25,7 @@ const projects = [
   },
   {
     id: 4,
-    title: "Brewery Finder App (Hops-Hunter)",
+    title: "Brewery Finder App",
     image: "/assets/images/4-BreweryFinder-Hops-Hunter.png",
     github: "https://github.com/Tesfa8186/First-Project",
     deploy: "",
@@ -39,7 +39,7 @@ const projects = [
   },
   {
     id: 6,
-    title: "Text-Editor-App.png",
+    title: "Text Editor App",
     image: "/assets/images/6-Text-Editor-App.png",
     github: "https://github.com/Tesfa8186/PWA-Challenge-Text-Editor",
     deploy: "https://stark-atoll-29817.herokuapp.com/",
