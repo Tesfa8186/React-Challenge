@@ -23,7 +23,7 @@
 
 ## Links
 
-- [My React Portfolio URL]()
+- [My Portfolio URL]()
 - [URL of GitHub Repo](https://github.com/Tesfa8186/my-react-portfolio)
 - ![alt text](./public/assets/images/About-Page.png)
 
