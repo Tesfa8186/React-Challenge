@@ -20,11 +20,12 @@
 - Clone the repo from GitHub to your locall device.
 - Run `npm install`
 - Run `npm start` to start the web server & connect.
+- OR USE [Tesfa's Portfolio](https://tesfa8186.github.io/my-react-portfolio/)
 
 ## Links
 
-- [My Portfolio URL]()
-- [URL of GitHub Repo](https://github.com/Tesfa8186/my-react-portfolio)
+- [Tesfa's Portfolio URL Link](https://tesfa8186.github.io/my-react-portfolio/)
+- [Tesfa's Portfolio GitHub Repo](https://github.com/Tesfa8186/my-react-portfolio)
 - ![alt text](./public/assets/images/About-Page.png)
 
 ## License

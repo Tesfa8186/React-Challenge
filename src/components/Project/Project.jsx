@@ -17,10 +17,10 @@ import { faLink, faFileLines} from '@fortawesome/free-solid-svg-icons'
                         <img alt={project.title} className={` ${css.projectImg}`} src={`${process.env.PUBLIC_URL}${project.image}`}></img>
                     </div>
                     <div className={`${css.padding}`}>
-                        <a className={`white-text blue btn ${css.hovering}`} href={project.github} target='_blank' rel='noreferrer'>Github Repo <FontAwesomeIcon icon={faFileLines} /></a>
+                        <a className={`white-text pink btn ${css.hovering}`} href={project.github} target='_blank' rel='noreferrer'>Github Repo <FontAwesomeIcon icon={faFileLines} /></a>
                     </div>
                     <div className={`${css.padding}`}>
-                        <a className={`white-text green btn ${css.hovering}`} href={project.deploy} target='_blank' rel='noreferrer'>Deployed Link <FontAwesomeIcon icon={faLink} /></a>
+                        <a className={`white-text blue btn ${css.hovering}`} href={project.deploy} target='_blank' rel='noreferrer'>Deployed Link <FontAwesomeIcon icon={faLink} /></a>
                     </div>
                 </div>
             </div>
